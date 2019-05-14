@@ -1,2 +1,2 @@
-# object-detection-with-deep-learning
+# Object Detection With Deep Learning
 Real time object detection with Caffe and OpenCV.
