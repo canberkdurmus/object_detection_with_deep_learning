@@ -1,0 +1,5 @@
+{
+  "prototxt": "MobileNetSSD_deploy.prototxt.txt",
+  "model": "MobileNetSSD_deploy.caffemodel",
+  "confidence_threshold": 0.2
+}
